@@ -34,16 +34,26 @@ Sistemin anasayfa yapısı aşağıdaki gibidir DÜZENLE ve SİL MENÜLERİYLE S
 </p><br><br><br><br>
  <br>
  <br>
+ <br><br><br><br>
+ <br>
+ <br>
 <h1>Yeni kişi ekle</h1><br>
 Butona bastığımız anda ad soyad ve yaş kategorilerin ekleme ekranı gelicektir.<br><br>
+<br><br><br><br>
+ 
 
 <img align="left" width="450" height="400" src="https://user-images.githubusercontent.com/43750173/55810399-291e1900-5af0-11e9-9d63-662f57829496.PNG" ><br>
  <br>
+ <br><br><
+ <br>
  <br>
 <br>Kişi Ekleme Test Aşaması
-<img align="left" width="450" height="400" src="https://user-images.githubusercontent.com/43750173/55810595-85813880-5af0-11e9-907a-651b1c937f12.PNG" >
+<img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/43750173/55810595-85813880-5af0-11e9-907a-651b1c937f12.PNG" >
+<br><br><br><br>
+ <br>
+ <br>
 <br>Veri Tabanı sorgularında da ekranda gösterilmektedir!
- <img align="center" width="400" height="400" src="https://user-images.githubusercontent.com/43750173/55810598-8619cf00-5af0-11e9-83d3-2b18b67f3de6.PNG">
+ <img align="center" width="300" height="400" src="https://user-images.githubusercontent.com/43750173/55810598-8619cf00-5af0-11e9-83d3-2b18b67f3de6.PNG">
  <br><br>
  <br>
  <br>
