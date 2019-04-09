@@ -42,24 +42,24 @@ Butona bastığımız anda ad soyad ve yaş kategorilerin ekleme ekranı gelicek
 <br><br><br><br>
  
 
-<img align="left" width="450" height="400" src="https://user-images.githubusercontent.com/43750173/55810399-291e1900-5af0-11e9-9d63-662f57829496.PNG" ><br>
+<img align="left" width="850" height="400" src="https://user-images.githubusercontent.com/43750173/55810399-291e1900-5af0-11e9-9d63-662f57829496.PNG" ><br>
  <br>
- <br><br><
+ <br><br>
  <br>
  <br>
 <br>Kişi Ekleme Test Aşaması
-<img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/43750173/55810595-85813880-5af0-11e9-907a-651b1c937f12.PNG" >
+<img align="left" width="850" height="400" src="https://user-images.githubusercontent.com/43750173/55810595-85813880-5af0-11e9-907a-651b1c937f12.PNG" >
 <br><br><br><br>
  <br>
  <br>
 <br>Veri Tabanı sorgularında da ekranda gösterilmektedir!
- <img align="center" width="300" height="400" src="https://user-images.githubusercontent.com/43750173/55810598-8619cf00-5af0-11e9-83d3-2b18b67f3de6.PNG">
+ <img align="center" width="500" height="400" src="https://user-images.githubusercontent.com/43750173/55810598-8619cf00-5af0-11e9-83d3-2b18b67f3de6.PNG">
  <br><br>
  <br>
  <br>
 <h1>Yeni adres</h1><br>
 Butona bastığımız anda adres ve eklenicek veritabanı kişi çekilir ve atama için ekranı gelicektir.<br><br>
-<img align="left" width="450" height="400" src="https://user-images.githubusercontent.com/43750173/55811048-2ff95b80-5af1-11e9-9ea7-65ea21734af5.PNG" >
+<img align="left" width="850" height="400" src="https://user-images.githubusercontent.com/43750173/55811048-2ff95b80-5af1-11e9-9ea7-65ea21734af5.PNG" >
 <br>Veri Tabanı sorgularında da ekranda gösterilmektedir!
  <img align="center" width="400" height="400" src="https://user-images.githubusercontent.com/43750173/55811049-3091f200-5af1-11e9-8796-001b6909f4e3.PNG">
 
@@ -67,7 +67,7 @@ Butona bastığımız anda adres ve eklenicek veritabanı kişi çekilir ve atam
 <br>
 <br>
 Her bir tablo veritabanında görüntülenmiştir sql sorgularıyla!
-<img align="center" width="400" height="400" src="https://user-images.githubusercontent.com/43750173/55811317-9da58780-5af1-11e9-8ba0-22707c83d784.PNG">
+<img align="center" width="800" height="400" src="https://user-images.githubusercontent.com/43750173/55811317-9da58780-5af1-11e9-8ba0-22707c83d784.PNG">
  <br>
 <br>
 <h1>Örnek Sorgu</h1>
